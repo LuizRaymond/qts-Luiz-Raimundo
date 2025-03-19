@@ -1,0 +1,1 @@
+APP_KEY=base64:i/46sCV8ht9va+a5ZRONR/8cSFSd8+hRuzAgm80saOg=
